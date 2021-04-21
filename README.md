@@ -12,7 +12,7 @@ I teach various programming languages to high school students.
 - MongoDB
 - Database design (ERD)
 
-## I know:
+## I use:
 - React
 - NodeJS
 - Java
