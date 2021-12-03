@@ -7,13 +7,12 @@ I teach various programming languages to high school students.
 - HTML & CSS
 - JavaScript
 - C#
+- Python
 - PHP
 - MySQL
 - MongoDB
-- Database design (ERD)
 
 ## I use:
 - React
 - NodeJS
 - Java
-- C++
